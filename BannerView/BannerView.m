@@ -10,7 +10,7 @@
 #define selfH (self.bounds.size.height)
 
 #import "BannerView.h"
-#import <UIImageView+WebCache.h>
+#import "UIImageView+WebCache.h"
 
 @interface BannerView ()<UIScrollViewDelegate>
 
